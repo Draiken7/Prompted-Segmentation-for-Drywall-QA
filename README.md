@@ -62,5 +62,6 @@ The primary cause of failure comes from first the tiling that divides each image
 In this case, firstly, a different model needs to be found that can handle prompt association with object detection rather than mapping to new classes. Secondly, data augmentation needs to avoid orientation changes that add black borders that may be misconstrued for a different section of the wall. The failure points might remain but based on the performance, methods like data augmentation using changes in contrast and exposure might help.
 
 
-
+# How to run:
+Use the dataset links to donwload the dataset and run cell by cell after installing the requirements as given in the requirements.txt file.
 
