@@ -1,0 +1,25 @@
+# Data Management
+roboflow
+
+# Deep Learning Frameworks
+torch
+torchvision
+
+# Computer Vision & Image Processing
+opencv-python
+Pillow
+pycocotools
+
+# Model Architectures (CLIPSeg)
+transformers
+accelerate
+ultralytics
+
+# Data Science & Utilities
+numpy
+matplotlib
+tqdm
+yaml
+
+# general
+os
